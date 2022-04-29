@@ -1,7 +1,7 @@
 # MEGA
 Repository of Grasshopper scripts for MEGA. Please upload your files according to the following format.
 
-Please also upload a Hops version by using the following naming: nameOfScript_hops.gh
+Please also upload a Hops version by using the following naming: nameOfScript.gh
 Hops scripts can be used from github by right-clicking on the download button and selecting 'copy link'.
 This link can be inserted in your Hops component.
 
